@@ -65,7 +65,15 @@
 - **게임 라이프사이클 전 과정 수행 (설계-개발-운영)**  
 
 ---
+## 📈 포트폴리오
+- **[KIM-KI-CHUL-POTFOLIO-2025-네시삼십삼분.pdf](Docs/KIM-KI-CHUL-POTFOLIO-2025-%EB%84%A4%EC%8B%9C%EC%82%BC%EC%8B%AD%EC%82%BC%EB%B6%84.pdf)**
+- **[KIM-KI-CHUL-POTFOLIO-2025-스카이워크.pdf](Docs/KIM-KI-CHUL-POTFOLIO-2025-%EC%8A%A4%EC%B9%B4%EC%9D%B4%EC%9B%8C%ED%81%AC.pdf)**
+- **[KIM-KI-CHUL-POTFOLIO-2025_카이로스.pdf](Docs/KIM-KI-CHUL-POTFOLIO-2025_%EC%B9%B4%EC%9D%B4%EB%A1%9C%EC%8A%A4.pdf)**
+- **[KIM-KI-CHUL-POTFOLIO-2025-피버스튜디오.pdf](Docs/KIM-KI-CHUL-POTFOLIO-2025-%ED%94%BC%EB%B2%84%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4.pdf)**
+- **[KIM-KI-CHUL-POTFOLIO-2025-엔타즈.pdf](Docs/KIM-KI-CHUL-POTFOLIO-2025-%EC%97%94%ED%83%80%EC%A6%88.pdf)**
 
+
+---
 ## 📬 Contact
 - **Email**: romico@gmail.com  
 - **GitHub**: [https://github.com/romico](https://github.com/romico)  
