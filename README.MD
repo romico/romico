@@ -74,7 +74,8 @@
 
 ---
 ## 📬 Contact
-- **Email**: romico@gmail.com  
-- **GitHub**: [https://github.com/romico](https://github.com/romico)  
-- **LinkedIn**: [https://www.linkedin.com/in/ki-chul-kim-61379a118](www.linkedin.com/in/ki-chul-kim-61379a118)  
+
+[<img align="left" alt="Varlackc | YouTube" width="65px" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:romico@gmail.com)
+[<img align="left" alt="Varlackc | YouTube" width="88px" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/loveicenet/)
+[<img align="left" alt="varlackc | LinkedIn" width="69px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ki-chul-kim-61379a118/)
 
